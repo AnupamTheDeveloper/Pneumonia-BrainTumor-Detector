@@ -1,0 +1,2 @@
+0 Brain_Tumor
+1 No_Brain_Tumor

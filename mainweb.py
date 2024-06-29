@@ -3,7 +3,6 @@ import json
 import streamlit as st
 from keras.models import load_model
 from PIL import Image
-import tensorflow.compat.v2 as tf
 from util import classify
 from streamlit_option_menu import option_menu
 from streamlit_lottie import st_lottie
